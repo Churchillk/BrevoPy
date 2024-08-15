@@ -1,4 +1,4 @@
-#BrevoPy
+# BrevoPy
 ## Django Email Reminder 
 
 This Django application sends email reminders about tasks using the Brevo (formerly Sendinblue) SMTP service. It demonstrates how to use Django's email capabilities and template rendering to notify users about tasks.
